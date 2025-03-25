@@ -1,0 +1,6 @@
+.sidebar {
+    background: linear-gradient(to bottom, #ffd700, #008080);
+    height: auto;
+    min-height: 100vh;
+}
+
